@@ -43,7 +43,7 @@
 	text-align: left;
 }
 
-.ddcontent a:hover {
+.ddcontent a:hover, .ddcontent a::selection {
 	background-color: #f1f1f1;
 }
 
