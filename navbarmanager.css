@@ -43,10 +43,10 @@
 	text-align: left;
 }
 
-.ddcontent a:hover, .ddcontent a::selection {
+.ddcontent a:hover{
 	background-color: #f1f1f1;
 }
 
-.dropdown:hover .ddcontent {
+.dropdown:hover .ddcontent, .dropdown::selection .ddcontent {
 	display: block;
 }
