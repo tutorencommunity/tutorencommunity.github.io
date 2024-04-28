@@ -47,6 +47,7 @@
 	background-color: #f1f1f1;
 }
 
-.dropdown:hover .ddcontent, .dropdown::selection .ddcontent {
+.dropdown:hover > .ddcontent,
+.dropdown:focus > .ddcontent {
 	display: block;
 }

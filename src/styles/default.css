@@ -5,6 +5,7 @@
 }
 
 body{
+	margin: 1vmin;
 	font-family: sans-serif;
 	background-color: #202930;
 	color: #ffffff;
@@ -35,18 +36,6 @@ body{
 	border-radius: 5px;
 	padding: 10px;
 	margin: 5px;
-}
-
-.third {
-	width: 33%;
-	display: inline-block;
-	/*align-content: center;*/
-}
-
-.half {
-	width: 49%;
-	display: inline-block;
-	/*align-content: center;*/
 }
 
 /*Link manager:
